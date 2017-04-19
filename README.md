@@ -1,4 +1,7 @@
-# test coverage for  [ascii-chart (v1.3.3)](https://github.com/jstrace/chart#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ascii-chart.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ascii-chart) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ascii-chart.svg)](https://travis-ci.org/npmtest/node-npmtest-ascii-chart)
+# npmtest-ascii-chart
+
+#### basic test coverage for  [ascii-chart (v1.3.3)](https://github.com/jstrace/chart#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ascii-chart.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ascii-chart) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ascii-chart.svg)](https://travis-ci.org/npmtest/node-npmtest-ascii-chart)
+
 #### Ascii bar chart
 
 [![NPM](https://nodei.co/npm/ascii-chart.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ascii-chart)
